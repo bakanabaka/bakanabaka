@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0de3dfdaf5d71f6d42055f7c8669b8b273d2731d9092bfb4373891d5a9741a60/68747470733a2f2f63342e77616c6c7061706572666c6172652e636f6d2f77616c6c70617065722f3334372f3439332f37322f6d757369632d6261636b67726f756e642d617374726f6e6175742d746170652d77616c6c70617065722d707265766965772e6a7067)](https://rishavchanda.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
