@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/204/847/desktop-wallpaper-music-background-astronaut-tape-synthpop-retrowave-synthwave-new-retro-wave-retro-games-spaceretro-section-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC-retro-gaming-christmas.jpg)](https://rishavchanda.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/347/493/72/music-background-astronaut-tape-wallpaper-preview.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
