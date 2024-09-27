@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakanabaka&show_icons=true&locale=en&layout=compact" alt="bakanabaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakanabaka&show_icons=true&locale=en" alt="bakanabaka" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakanabaka&" alt="bakanabaka" /></p>
