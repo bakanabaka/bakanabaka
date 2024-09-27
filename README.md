@@ -8,11 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakanabaka&label=Profile%20views&color=0e75b6&style=flat" alt="bakanabaka" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sj-portfolio.onrender.com/](https://sj-portfolio.onrender.com/)
 
 - 💬 Ask me about: **NodeJS , Flutter , Machine Learning ,**
 
-- 📫 How to reach me: **shravanth.cs21@bmsce.ac.in**
+- 📫 How to reach me: **ujwal.cs21@bmsce.ac.in**
 
 - ⚡ Fun fact: **I will get Ole maari**
 
