@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ujwal Harish</h1>
+<h1 align="center">Hi 👋, I'm Shravanth J</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
@@ -9,13 +9,13 @@
 
 - 💬 Ask me about: **NodeJS , Flutter , Machine Learning ,**
 
-- 📫 How to reach me: **ujwal.cs21@bmsce.ac.in**
+- 📫 How to reach me: **shravanth.cs21@bmsce.ac.in**
 
 - ⚡ Fun fact: **I will get Ole maari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ujwal-harish-38a878227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravanth-j-b89174235" height="30" width="40" /></a>
+<a href="linkedin.com/in/shravanthj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravanth-j-b89174235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakanabaka&show_icons=true&locale=en&layout=compact" alt="bakanabaka" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakanabaka&show_icons=true&locale=en" alt="bakanabaka" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakanabaka&" alt="bakanabaka" /></p>
